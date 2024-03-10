@@ -111,7 +111,7 @@
     "echarts": "^5.4.2",
     "elkjs": "^0.7.1",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
-    "framer-motion": "^6.0.0",
+    "framer-motion": "^11.0.5",
     "jquery": ">=3.5.0",
     "jshint": "^2.13.4",
     "lodash": "^4.17.21",
