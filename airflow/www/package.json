@@ -127,8 +127,13 @@
     "react-syntax-highlighter": "^15.5.0",
     "react-table": "^7.8.0",
     "react-textarea-autosize": "^8.3.4",
+<<<<<< snyk-upgrade-c332e262d020a5753f37211241df4aa4
+    "reactflow": "^11.10.4",
+    "redoc": "^2.0.0-rc.72",
+======
     "reactflow": "^11.4.0",
     "redoc": "^2.0.0",
+>>>>>> main
     "remark-gfm": "^3.0.1",
     "swagger-ui-dist": "4.1.3",
     "tsconfig-paths": "^3.14.2",
