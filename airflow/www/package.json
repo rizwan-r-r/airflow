@@ -98,8 +98,13 @@
     "axios": "^0.26.0",
     "bootstrap-3-typeahead": "^4.0.2",
     "camelcase-keys": "^7.0.0",
+<<<<<< snyk-upgrade-57b4c48123fc48725d39137c27c8dcb9
+    "chakra-react-select": "^4.0.0",
+    "codemirror": "^6.0.1",
+======
     "chakra-react-select": "^4.7.6",
     "codemirror": "^5.59.1",
+>>>>>> main
     "color": "^4.2.3",
     "d3": "^3.4.4",
     "d3-selection": "^3.0.0",
